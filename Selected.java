@@ -9,7 +9,7 @@ public class Selected {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+System.out.println("Start of the program");		
 System.setProperty("webdriver.chrome.driver","E:\\Software Testing\\Selenium\\Driver\\chromedriver.exe" );
 		
 		WebDriver driver= new ChromeDriver();
